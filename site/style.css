@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+
+
+
+
+#tittle {
+    background-color: rgb(221, 221, 221);
+    font-size: 200%;
+    font-family:'sans-serif';
+    
+}
+#paddingT {
+    padding: 12px;
+    background-color: red;
+    
+    border: 5px solid black;
+    
+    padding-right: 84%;
+
+    
+}
+
+#tittleH {
+    background-color: rgb(213, 241, 234);
+    font-size: 100%;
+    font-family:'mono-space';
+    
+}
+#paddingH {
+    padding: 2px;
+    padding-right: 88%;
+    background-color: rgb(0, 0, 0);
+    
+}
+#subH {
+    color: black;
+    font-size: x-large;
+}
+
+
+h3 {
+    color: rgb(9, 7, 126);
+    font-family: 'Segoe UI';
+}
+p {
+    color: white;
+    background-image: url("home_pic.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% ;
+  }
