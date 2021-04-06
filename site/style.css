@@ -51,13 +51,18 @@ p {
     
     background-image: url("IMG_9419.JPG");
     background-repeat: no-repeat;
-    background-size: 40% ;
+    background-size: 38.5% ;
   }
 
 
   #menus {
     color: red;
-    font-family: 'Lucida Sans';
+    font-family: monospace;
     font-size: x-large;
     
   }
+
+ h4 {
+     color: rgb(0, 0, 0);
+     font-family:cursive;
+ }
