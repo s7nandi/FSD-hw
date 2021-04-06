@@ -20,7 +20,7 @@ body {
     
     border: 5px solid black;
     
-    padding-right: 84%;
+    padding-right: 0%;
 
     
 }
@@ -48,8 +48,16 @@ h3 {
     font-family: 'Segoe UI';
 }
 p {
-    color: white;
-    background-image: url("home_pic.jpg");
+    
+    background-image: url("IMG_9419.JPG");
     background-repeat: no-repeat;
-    background-size: 50% ;
+    background-size: 40% ;
+  }
+
+
+  #menus {
+    color: red;
+    font-family: 'Lucida Sans';
+    font-size: x-large;
+    
   }
